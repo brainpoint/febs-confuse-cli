@@ -1,0 +1,30 @@
+{
+  "description": "cli of confuse-file",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colors": "^1.1.2",
+    "febs": "^1.0.12",
+    "readline-sync": "^1.4.10",
+    "term-list": "^0.2.1"
+  },
+  "devDependencies": {},
+  "directories": {},
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [],
+  "bin": {
+    "febs-confuse": "./bin/index.js"
+  },
+  "license": "MIT",
+  "main": "./bin/index.js",
+  "maintainers": [
+    {
+      "name": "brainpoint",
+      "email": "bpoint.lee@gmail.com"
+    }
+  ],
+  "scripts": {},
+  "name": "febs-confuse-cli",
+  "version": "0.0.1"
+}
